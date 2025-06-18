@@ -21,5 +21,5 @@ Basics of props, state (if used), and component structure
 
 🔗 Live Demo
 Check out the live version here:
-👉 https://your-project-name.vercel.app (replace with your Vercel link)
+👉https://my-first-react-project-el89.vercel.app/
 Deploying a React app to GitHub and Vercel
